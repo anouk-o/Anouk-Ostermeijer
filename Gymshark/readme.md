@@ -18,7 +18,7 @@ Uiteindelijk is het mij gelukt om heel blij te zijn met het eindresultaat. Het h
 
 **Screenshot(s):**
 
-
+(images/Hoofd.png)
 
 
 
@@ -60,7 +60,7 @@ Je startniveau: Blauw
 
 Je focus: Responsive 
 
-Je opdracht: https://www.gymshark.com/collections/all-products/mens?sortBy=sortRelevance
+Je opdracht: https://nl.gymshark.com/
 
 Screenshot(s):
 

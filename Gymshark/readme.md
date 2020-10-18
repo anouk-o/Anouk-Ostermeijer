@@ -14,7 +14,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+Uiteindelijk is het mij gelukt om heel blij te zijn met het eindresultaat. Het heeft echt even geduurd ook om de motivatie te vinden maar door de hulp van mijn vriend ben ik erg goed op weg gekomen! Door veel op internet te zoeken en filmpjes te kijken is het me aardig gelukt om 2 pagina's de alle producten en de FAQ te maken + de drop down menu die het ook doet doormiddel van java script. Het is niet mijn sterkste kant dit vak maar ik ben toch wel trots dat ik mezelf heb gepusht om toch door te gaan. En als ik eerlijk ben had ik de hulp van mijn vriend ook echt niet kunnen missen!
 
 **Screenshot(s):**
 
@@ -60,7 +60,7 @@ Je startniveau: Blauw
 
 Je focus: Responsive 
 
-Je opdracht: https://nl.gymshark.com/
+Je opdracht: https://www.gymshark.com/collections/all-products/mens?sortBy=sortRelevance
 
 Screenshot(s):
 
@@ -68,4 +68,3 @@ Screenshot(s):
 
 **Breakdown-schets(en):**
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)

@@ -18,7 +18,7 @@ Uiteindelijk is het mij gelukt om heel blij te zijn met het eindresultaat. Het h
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
+
 
 
 
